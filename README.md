@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Haroon-1
+- 👀 I’m interested in K8s-related projects.
+- 🌱 I’m currently learning the Kubernetes architecture
+- 💞️ I’m looking to collaborate on web scraping projects in Python or anything interesting
+- 📫 Reach me @ haroondogar93@gmail.com / Search me @ Slack with 'Haroon Dogar'
