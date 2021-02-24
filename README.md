@@ -2,4 +2,4 @@
 - 👀 I’m interested in K8s-related projects.
 - 🌱 I’m currently learning the Kubernetes architecture. There may be a shiny Certificate from CNCF here soon which I'm currently working on.
 - 💞️ I’m looking to collaborate on web scraping projects in Python or anything interesting overall.
-- 📫 Reach me @ haroondogar93@gmail.com / Search me @ Slack with 'Haroon Dogar' / Or add me on https://www.linkedin.com/in/haroon-dogar/
+- 📫 Reach me @ haroondogar93@gmail.com / Or add me on https://www.linkedin.com/in/haroon-dogar/
